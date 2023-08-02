@@ -20,7 +20,7 @@ body{
 }
 #container{
     position: relative;
-    width: 40%;
+    width: 20%;
     background-image: url(images/music.png);
     background-size: cover;
     background-position: center;
